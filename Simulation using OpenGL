@@ -1,5 +1,4 @@
 # Rain-water-harvesting-simulation-using-OpenGL
-
 #include<stdio.h>
 #include<math.h>
 #include<gl/glut.h>
